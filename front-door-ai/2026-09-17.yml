@@ -1,0 +1,21 @@
+# Front Door AI Index — open-government-lithuania — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: open-government-lithuania
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: data.gov.lt
+  final_host: data.gov.lt
+  ownership: own
+  owner: open-government-lithuania
+  shares_host_with: null
+  inherited_from: null
+  verdict: unmeasured
+  score: null
+  host_score: null
+  density: null
+  words: null
+  tiers: null
+  ambiguous: null
+  top_terms: null

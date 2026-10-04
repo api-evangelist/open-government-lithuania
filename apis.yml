@@ -39,7 +39,6 @@ apis:
   - name: Open Government, Lithuania
     description: "Lithuania Government Open Data"
     humanURL: https://data.gov.lt/public/api/1
-    baseURL: https://data.gov.lt/public/api/1
     tags:
       - Government
     properties:
